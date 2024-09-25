@@ -25,3 +25,4 @@ function [ T1_cc,T2c_cc, T3c_cc, tip] = construct_tdcr_cc( var_cc, z )
     T3_tip=reshape(T3c_cc(length(T3c_cc),:),4,4);
     tip=[T3_tip(1,4),T3_tip(2,4)];
 end
+
