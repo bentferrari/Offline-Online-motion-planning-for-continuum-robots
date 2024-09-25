@@ -12,5 +12,3 @@ Tasks:
    To see the demo, you can run \offline_planner\insertion_planning\plot_insertion.m
 4. Online replanning with moving obstacles→
    Run \online_replanner\clf_cbf_qp_main.m
-
-Great thanks to Turhan Can for providing the basic kinematics https://github.com/turhancan97/2D-and-3D-Constant-Curvature-Kinematics?tab=MIT-1-ov-file#readme.
