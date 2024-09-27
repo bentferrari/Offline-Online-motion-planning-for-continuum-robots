@@ -1,5 +1,6 @@
 # Offline-Online-motion-planning-for-continuum-robots
 This is the open-source code for submission of IEEE Robotics and Automation Letters.
+
 Requirement: 1. MATLAB, 2. MATLAB APP: Optimization Toolbox 3. MATLAB APP: Global Optimization Toolbox
 
 The motion planner is divided into two parts: 
