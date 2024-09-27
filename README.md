@@ -5,7 +5,7 @@ Requirement: 1. MATLAB, 2. MATLAB APP: Optimization Toolbox, 3. MATLAB APP: Glob
 
 The motion planner is divided into two parts:
 
-  1. Offline_planner 2. Online_replanner
+1. Offline_planner 2. Online_replanner
      
 In the offline_planner folder, we have two sub-folders:
 
