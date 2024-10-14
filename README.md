@@ -24,3 +24,5 @@ Tasks:
 3. Online replanning with moving obstacles→Run
 
    \online_replanner\clf_cbf_qp_main.m
+
+Demo at:https://www.youtube.com/watch?v=WsuaO7YvfqE
